@@ -1,6 +1,4 @@
-# AngularJS
+# AngularJS - REST API Frontend
 
-Did a few lessons of the basics of AngularJS (Angular1)
+Created the Frontend , it communicates with the Symfony-Backend from my Repo: "REST-API-Symfony-AngularJS-JSON-v2"
 
-
-<https://www.youtube.com/watch?v=zKkUN-mJtPQ&index=1&list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl>
